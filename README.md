@@ -57,7 +57,6 @@ All data is saved locally, no database is used.
 
 🛠 Technologies Used
 Java SE (Standard Edition)
-created by Venkatesh Inamanamelluru
 
 File I/O (BufferedReader, FileWriter)
 
